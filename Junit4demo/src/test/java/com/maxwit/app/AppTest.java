@@ -18,6 +18,6 @@ public class AppTest
     @Test
     public void AssertEquals() {
         App app = new App();
-        assertEquals(2, app.add(1, 4));
+        assertEquals(2, app.add(1, 1));
     }
 }
